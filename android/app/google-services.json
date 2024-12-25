@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761775135563",
+    "project_id": "storedge-v2",
+    "storage_bucket": "storedge-v2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761775135563:android:1023a4bf1d6086b27a26ce",
+        "android_client_info": {
+          "package_name": "net.stiller.storedgev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761775135563-72a6t3er9hjderttih7regn5epajnnk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCop10J4bY0B7H-V4y07e1J6oJDgtYqFpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761775135563-72a6t3er9hjderttih7regn5epajnnk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

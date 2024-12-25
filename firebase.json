@@ -1,0 +1,22 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "storedge-v2",
+          "appId": "1:761775135563:android:1023a4bf1d6086b27a26ce",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "storedge-v2",
+          "configurations": {
+            "android": "1:761775135563:android:1023a4bf1d6086b27a26ce",
+            "web": "1:761775135563:web:746fa5b3745a3dff7a26ce"
+          }
+        }
+      }
+    }
+  }
+}
